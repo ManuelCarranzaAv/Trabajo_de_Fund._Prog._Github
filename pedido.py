@@ -10,7 +10,7 @@ def cuenta():
 	print("La cuenta es de 20 soles")
 
 if __name__ == '__main__':
-	print("¿Buenas tardes, ¿Que desea pedir? ")
+	print("Buenas tardes, ¿Que desea pedir? ")
 	pedido()
 	print("¿Desea pedir la cuenta?")
 	cuenta()
